@@ -12,7 +12,7 @@ I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data i
 
 - **🤖Machine Learning:** While I'm not a machine learning expert, I'm well-versed in supervised machine learning concepts, allowing me to explore predictive analytics.
 
-- **☁️Cloud Computing:** I've recently delved into AWS (Amazon Web Services) ☁️ with a focus on cloud computing fundamentals, broadening my skill set.
+- **☁️Cloud Computing:** I've recently delved into AWS (Amazon Web Services) with a focus on cloud computing fundamentals, broadening my skill set.
 
 ## 🚀 My Path Ahead
 
