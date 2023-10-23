@@ -18,6 +18,7 @@ I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data i
 - **☁️Cloud Computing:** I've recently delved into AWS (Amazon Web Services) with a focus on cloud computing fundamentals, broadening my skill set.
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="pointer-events: none;"/>
@@ -44,7 +45,7 @@ I'm on a continuous journey to refine my data analysis skills and dive deeper in
 
 If you share a passion for data and analytics or if you'd like to collaborate on a project, feel free to reach out. I'm always excited to connect with fellow data enthusiasts and professionals.
 
-📫 How to reach me **fardinkhan.data@gmail.com**
+📫 How to reach me [fardinkhan.data@gmail.com](fardinkhan.data@gmail.com)
 
 
 <a href="https://linkedin.com/in/fardin-khan-74b675268" target="blank">
