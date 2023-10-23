@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-![Linkedln Banner](https://github.com/Fardin-Data/Fardin-Data/assets/137788371/b2e80c37-fd38-4a34-9779-36763d5f63df)
-
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/Fardin-Data/Fardin-Data/assets/137788371/9eceec1b-4743-4959-bf7c-2e78de50a153)
 
 I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data into **Actionable Insights**. I specialize in harnessing the power of data analysis tools to solve complex problems and drive **Informed Decision-Making**.
 
