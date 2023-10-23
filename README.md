@@ -18,7 +18,6 @@ I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data i
 - **☁️Cloud Computing:** I've recently delved into AWS (Amazon Web Services) with a focus on cloud computing fundamentals, broadening my skill set.
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="pointer-events: none;"/>
@@ -40,6 +39,82 @@ I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data i
 I'm on a continuous journey to refine my data analysis skills and dive deeper into the world of data science. My goal is to leverage my analytical expertise to generate impactful insights that drive **Business Success**.
 
 [Link to My Resume](https://drive.google.com/file/d/1Z70QGA7Usa0STd7xh3261TIm4pfm23i5/view?usp=sharing)
+
+## Projects
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/512dfe1e-ba7a-4cfd-ba91-ba42e2d90477" alt="Image 1" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/Apple-Path-to-Carbon-Neutrality/tree/main"><strong>Apple's Path to Carbon Neutrality</strong></a><br /><br />
+      Aims to visualize Apple's progress toward meeting its 2030 goal of reaching carbon neutrality across its corporate operations and entire product life cycle.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/de084b36-9a7a-47ea-92f2-b2e81d2c722d" alt="Image 2" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/E-Commerce-360-Analysis"><strong>E-Commerce 360 Analysis</strong></a><br /><br />
+      The goal is to provide a 360-degree view of operations, uncovering critical information that can drive strategic decisions. By the end of this journey, the aim is not only to understand the business better but also to provide recommendations that can drive growth and success.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/d85cd734-80de-418a-97ba-b7629059563e" alt="Image 3" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/HR-Attrition-Analysis"><strong>HR Attrition Analysis</strong></a><br /><br />
+      In-depth HR attrition analysis, identifying trends, potential risk areas, and opportunities for employee retention strategies.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src= "https://github.com/Fardin-Data/Fardin-Data/assets/137788371/500ebac3-f0f7-49c4-bbd7-aed7644aee93" alt="Image 4" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting"><strong>Superstore Sales Analysis and Forecasting</strong></a><br /><br />
+      The Superstore Sales Analysis and Forecasting project leverages the power of data to uncover patterns, trends, and key insights within a sales dataset. By employing advanced analytics and visualization techniques, this project assists stakeholders in understanding historical sales performance and predicting future trends.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/8bf95b0d-dd46-4923-ad19-a941d705b0f1" alt="Image 5" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/Covid-19-India-Analysis"><strong>Covid-19 India Analysis</strong></a><br /><br />
+      Charting India's COVID-19 History: Explore our detailed analysis of the pandemic's regional impact, providing insights into the past for future preparedness.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="middle" width="40%">
+      <img src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/545bd758-0d1c-4335-bb30-ee307d47336f" alt="Image 6" width="1200" height="200" />
+    </td>
+    <td valign="top" width="80%">
+      <a href="https://github.com/Fardin-Data/Score-Prediction-through-Study-Hours"><strong>Score Prediction through Study Hours</strong></a><br /><br />
+      Aims to predict a student's anticipated exam score by utilizing a linear regression model, with the input variable being the number of hours they have dedicated to studying.
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🌐 Let's Connect
 
