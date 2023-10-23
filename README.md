@@ -52,7 +52,8 @@ If you share a passion for data and analytics or if you'd like to collaborate on
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fardin_data" height="30" width="40" />
   </a>
 <a href="mailto:fardinkhan.data@gmail.com">
-  <img align="center" src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/5010ee0d-4310-4485-bf51-f4605d297460" alt="Your Gmail" height="40" width="40" style="pointer-events: none;" />
+  <img align="center" src="https://github.com/Fardin-Data/Fardin-Data/assets/137788371/1ef280c1-f068-4187-a24b-fd436c577fbc"
+ alt="Your Gmail" height="40" width="40" style="pointer-events: none;" />
 </a>
 
 
