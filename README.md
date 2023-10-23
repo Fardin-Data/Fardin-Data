@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/Fardin-Data/Fardin-Data/assets/137788371/9eceec1b-4743-4959-bf7c-2e78de50a153)
+<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=12&color=gradient&height=300&section=header&text=Hi%20there!%20👋&fontSize=80&animation=scaleIn" />
 
 I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data into **Actionable Insights**. I specialize in harnessing the power of data analysis tools to solve complex problems and drive **Informed Decision-Making**.
 
