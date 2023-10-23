@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=12&color=gradient&height=300&section=header&text=Hi%20there!%20👋&fontSize=80&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=12&color=gradient&height=250&section=header&text=Hi%20there!%20👋&fontSize=80&animation=scaleIn" />
 
 I'm **Fardin Khan**, a Proficient Data Analyst with a passion for turning data into **Actionable Insights**. I specialize in harnessing the power of data analysis tools to solve complex problems and drive **Informed Decision-Making**.
 
