@@ -78,7 +78,7 @@ I'm on a continuous journey to refine my data analysis skills and dive deeper in
 <table>
   <tr>
     <td valign="middle" width="40%">
-      <img src= "https://github.com/Fardin-Data/Fardin-Data/assets/137788371/500ebac3-f0f7-49c4-bbd7-aed7644aee93" alt="Image 4" width="1200" height="200" />
+      <img src= "https://github.com/Fardin-Data/Fardin-Data/assets/137788371/90331996-5c87-45eb-a1f0-d1467c1ae1f0" alt="Image 4" width="1200" height="200" />
     </td>
     <td valign="top" width="80%">
       <a href="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting"><strong>Superstore Sales Analysis and Forecasting</strong></a><br /><br />
