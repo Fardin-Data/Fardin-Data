@@ -5,7 +5,7 @@ I'm **Fardin Khan**, a Proficient Analyst with a passion for turning data into *
 
 ## 🌟 What I Do
 
-- **🔍Data Analysis:** I excel in utilizing tools such as Power BI, Excel, SQL, and Python to dive deep into data and uncover valuable insights.
+- **🔍Data Analysis:** I excel in utilizing tools such as Redash, Power BI, Excel, SQL, and Python to dive deep into data and uncover valuable insights.
 
 - **📊Data Visualization:** I have a keen eye for data visualization, which I leverage to make complex data accessible and understandable.
 
