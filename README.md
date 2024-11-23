@@ -2,7 +2,6 @@
 
 I'm **Fardin Khan**, a Proficient Business Analyst with a passion for turning data into **Actionable Insights**. I specialize in harnessing the power of data analysis tools to solve complex problems and drive **Informed Decision-Making**.
 
-[Portfolio](https://fardinkhan.dorik.io/)
 
 ## 🌟 What I Do
 
